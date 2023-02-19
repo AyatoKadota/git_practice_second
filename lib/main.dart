@@ -90,7 +90,7 @@ class _MyHomePageState extends State<MyHomePage> {
           getImageFromGallery(); //関数を呼ぶ
         },
         tooltip: 'Increment',
-        child: const Icon(Icons.image),
+        child: const Icon(Icons.image_sharp),
       ),
     );
   }
